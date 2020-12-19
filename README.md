@@ -19,4 +19,7 @@
 ![alt text](https://github.com/theSoyrice/Project-Gat/blob/master/pikchi/icon/stat_pikchi.png)
 ![alt text](https://github.com/theSoyrice/Project-Gat/blob/master/pikchi/icon/yacheika.png)
 
+## Gif-animation
 
+![alt text](https://github.com/theSoyrice/Project-Gat/blob/master/pikchi/gif/koster_main.gif)
+![alt text](https://github.com/theSoyrice/Project-Gat/blob/master/pikchi/gif/bonfire2.gif)
