@@ -23,3 +23,7 @@
 
 ![alt text](https://github.com/theSoyrice/Project-Gat/blob/master/pikchi/gif/koster_main.gif)
 ![alt text](https://github.com/theSoyrice/Project-Gat/blob/master/pikchi/gif/bonfire2.gif)
+
+## Story
+
+![alt text](https://github.com/theSoyrice/Project-Gat/blob/master/pikchi/story/text.png)
