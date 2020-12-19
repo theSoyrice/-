@@ -17,5 +17,7 @@
 ![alt text](https://github.com/theSoyrice/Project-Gat/blob/master/pikchi/icon/knopcka_neispolzovat.png)
 ![alt text](https://github.com/theSoyrice/Project-Gat/blob/master/pikchi/icon/knopcka_vukinut.png)
 ![alt text](https://github.com/theSoyrice/Project-Gat/blob/master/pikchi/icon/stat_pikchi.png)
+![alt text](https://github.com/theSoyrice/Project-Gat/blob/master/pikchi/icon/stat_pikchi 2.png)
 ![alt text](https://github.com/theSoyrice/Project-Gat/blob/master/pikchi/icon/yacheika.png)
+
 
