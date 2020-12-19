@@ -10,11 +10,12 @@
 ![alt text](https://github.com/theSoyrice/Project-Gat/blob/master/pikchi/sec1.png)
 ![alt text](https://github.com/theSoyrice/Project-Gat/blob/master/pikchi/sec2.png)
 
-## icon
+## Icon
 
-![alt text](https://github.com/theSoyrice/Project-Gat/blob/master/icon/knopcka_cupit.png)
-![alt text](https://github.com/theSoyrice/Project-Gat/blob/master/icon/knopcka_iispolzovat.png)
-![alt text](https://github.com/theSoyrice/Project-Gat/blob/master/icon/knopcka_neispolzovat.png)
-![alt text](https://github.com/theSoyrice/Project-Gat/blob/master/icon/knopcka_vukinut.png)
-![alt text](https://github.com/theSoyrice/Project-Gat/blob/master/icon/stat_pikchi.gif)
+![alt text](https://github.com/theSoyrice/Project-Gat/blob/master/pikchi/icon/knopcka_cupit.png)
+![alt text](https://github.com/theSoyrice/Project-Gat/blob/master/pikchi/icon/knopcka_iispolzovat.png)
+![alt text](https://github.com/theSoyrice/Project-Gat/blob/master/pikchi/icon/knopcka_neispolzovat.png)
+![alt text](https://github.com/theSoyrice/Project-Gat/blob/master/pikchi/icon/knopcka_vukinut.png)
+![alt text](https://github.com/theSoyrice/Project-Gat/blob/master/pikchi/icon/stat_pikchi.png)
+![alt text](https://github.com/theSoyrice/Project-Gat/blob/master/pikchi/icon/yacheika.png)
 
